@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Atividades</string>
+    <string name="activity_a">Atividade A</string>
+    <string name="btn_start_a_label">iniciar A</string>
+    <string name="btn_start_b_label">iniciar B</string>
+    <string name="btn_start_c_label">iniciar C</string>
+    <string name="btn_start_dialog_label">Dialogo</string>
+    <string name="btn_finish_a_label">Terminar A</string>
+    <string name="btn_finish_b_label">Terminar B</string>
+    <string name="btn_finish_c_label">Terminar C</string>
+    <string name="btn_finish_dialog_label">Fechar</string>
+    <string name="lifecycle_method_list">Lista de Metodos do Ciclo de Vida</string>
+    <string name="activity_status">Status da Atividade</string>
+</resources>
